@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am obsessed with data.
+I am a data enthusiast who is obsessed with data.
 
 ## 👨‍💻 About Me
 - 📊 Passionate about data analysis and data-driven decision making  
