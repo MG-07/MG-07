@@ -1,15 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
+I am obsessed with data.
 
-**MG-07/MG-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 📊 Passionate about data analysis and data-driven decision making  
+- 🧹 Interested in data cleaning, transformation, and visualization  
+- 📈 Love discovering insights hidden in datasets  
+- 🌱 Currently learning more about data analytics and data science  
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Technologies
+- SQL  
+- Excel  
+- Power BI  
+- Python / R  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📂 Projects
+Here are some things I work on:
+- SQL practice queries
+- Analytics case studies
+
+---
+
+⭐ *“Without data, you're just another person with an opinion.”*
